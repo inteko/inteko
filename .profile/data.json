@@ -1,0 +1,195 @@
+{
+ "key": "fdf79657",
+ "stars": 0,
+ "contributions": 1488,
+ "repos": 6,
+ "followers": 0,
+ "languages": [
+  [
+   "Lua",
+   64805
+  ],
+  [
+   "C",
+   31128
+  ],
+  [
+   "Nix",
+   11124
+  ],
+  [
+   "Python",
+   11052
+  ],
+  [
+   "Objective-C",
+   5438
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 5,
+    "today": true
+   },
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 3,
+  "longest": 18
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "inteko",
+   "url": "https://github.com/inteko/inteko",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "glint-plus",
+   "url": "https://github.com/inteko/glint-plus",
+   "text": "a vibecoded (!) screenrecorder because sometimes sharex is not enough",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "macos-dotfiles",
+   "url": "https://github.com/inteko/macos-dotfiles",
+   "text": "my macos setup for daily usage",
+   "fork": false,
+   "stars": 0,
+   "language": "Lua",
+   "topics": []
+  },
+  {
+   "name": "tele",
+   "url": "https://github.com/inteko/tele",
+   "text": "a telegram desktop fork, kept as a queue of patches on top of upstream releases and built automatically",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "nixfiles",
+   "url": "https://github.com/inteko/nixfiles",
+   "text": "my nixos cfg for daily usage",
+   "fork": false,
+   "stars": 0,
+   "language": "Nix",
+   "topics": []
+  },
+  {
+   "name": "miyoi",
+   "url": "https://github.com/inteko/miyoi",
+   "text": "the reverse-engineered attack shark HID protocol, macOS-only",
+   "fork": true,
+   "stars": 0,
+   "language": "Swift",
+   "topics": []
+  }
+ ]
+}
