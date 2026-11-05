@@ -19,17 +19,17 @@
   ],
   "hidden": [
     "about",
-    "projects",
     "stats",
     "streak",
     "buttons",
-    "wave",
-    "socials"
+    "socials",
+    "projects",
+    "wave"
   ],
   "hero": {
-    "greeting": "Hi, I'm",
+    "greeting": "my name is ",
     "name": "",
-    "subtitle": "Building something cool everyday",
+    "subtitle": "professional elysiajs glazer",
     "typing": false,
     "avatarShape": "cookie",
     "chips": [
@@ -75,16 +75,12 @@
             "label": "TypeScript"
           },
           {
+            "icon": "brand:apifox",
+            "label": "ElysiaJS"
+          },
+          {
             "icon": "brand:svelte",
             "label": "Svelte"
-          },
-          {
-            "icon": "brand:react",
-            "label": "React"
-          },
-          {
-            "icon": "brand:drizzle",
-            "label": "Drizzle"
           },
           {
             "icon": "brand:python",
@@ -106,6 +102,14 @@
           {
             "icon": "brand:postgresql",
             "label": "Postgresql"
+          },
+          {
+            "icon": "brand:drizzle",
+            "label": "DrizzleORM"
+          },
+          {
+            "icon": "brand:redis",
+            "label": "Redis"
           },
           {
             "icon": "brand:docker",
