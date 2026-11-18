@@ -1,5 +1,5 @@
 {
- "key": "bc101335",
+ "key": "32f1ee54",
  "stars": 1,
  "contributions": 1559,
  "repos": 7,
@@ -119,9 +119,13 @@
    {
     "c": 0,
     "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
     "today": true
    },
-   null,
    null,
    null,
    null
